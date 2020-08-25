@@ -45,3 +45,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rspec-rails', '~> 4.0', '>= 4.0.1'
 gem 'factory_bot_rails', '~> 6.1'
 gem 'active_model_serializers', '~> 0.10.10'
+gem 'kaminari', '~> 1.2', '>= 1.2.1'
